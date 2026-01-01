@@ -9,9 +9,13 @@ A Front-End Portfolio Project
 The Jewellery Website is a static front-end web application designed to showcase jewellery products in an elegant and user-friendly layout.
 
 The project focuses on:
+
 ✔ Clean UI design
+
 ✔ Structured content sections
+
 ✔ Product presentation using cards
+
 ✔ Smooth navigation for users 
 
 ## ✨ Features
